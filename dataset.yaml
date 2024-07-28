@@ -1,0 +1,5 @@
+path: 'C:\Users\User\Desktop\Xu ly anh\NEW\dataset'
+train: train/
+val: val/
+nc: 3
+names: ['Trong Nghia','Chai Nuoc','Duc Thang']
